@@ -1,0 +1,12 @@
+{
+  "name": "graphql-yoga-whatwg-node-fetch-promise-helpers",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "packageManager": "pnpm@10.10.0",
+  "dependencies": {
+    "@whatwg-node/promise-helpers": "1.2.4",
+    "graphql-yoga": "^5.17.0"
+  }
+}
